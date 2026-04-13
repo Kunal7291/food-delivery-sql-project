@@ -1,5 +1,9 @@
 # 🍔 Food Delivery SQL Analytics Project
-
+## 📌 Project Highlights
+- Real-world dataset simulation
+- KPI-based analysis
+- Advanced SQL (Window Functions)
+- Business insights generation
 ## 📌 Objective
 Analyze food delivery data to understand customer behavior, delivery efficiency, and restaurant performance.
 
