@@ -1,0 +1,11 @@
+order_id	customer_id	restaurant_name	city	order_time	delivery_time	order_value	delivery_status
+1	101	Dominos	Delhi	01-10-2023 18:30	30	450	Delivered
+2	102	KFC	Mumbai	01-10-2023 19:00	40	650	Delivered
+3	103	McDonalds	Bangalore	01-10-2023 20:00	25	300	Delivered
+4	101	Dominos	Delhi	02-10-2023 21:00	35	500	Cancelled
+5	104	Burger King	Delhi	02-10-2023 22:00	45	700	Delivered
+6	105	KFC	Mumbai	03-10-2023 18:00	50	800	Delivered
+7	102	McDonalds	Bangalore	03-10-2023 19:30	20	250	Delivered
+8	106	Local Restaurant	Delhi	04-10-2023 20:00	55	200	Cancelled
+9	107	Dominos	Mumbai	04-10-2023 21:30	30	450	Delivered
+10	108	KFC	Bangalore	05-10-2023 22:00	60	900	Delivered
